@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning javascript and Kotlin
 - 💞️ I’m looking to collaborate on AI/ML applications
 - 📫 How to reach me subhadip.maiti@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can cook anything once I test it.
 
 <!---
 VCSubha/VCSubha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
